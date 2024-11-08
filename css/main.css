@@ -1,0 +1,35 @@
+.header{
+    background-color: pink;
+    color:yellow;
+    font-size: 25px;
+    padding-left: 800px;
+    padding-bottom: 60px;
+    text-transform: center;
+    display: flex;
+    
+}
+.donate{
+color:yellow;
+font-size: 25px;
+}
+.donater{
+    width: 150px;
+    height: 150px;
+}
+.main{
+    background-color: black;
+}
+.pisar{
+    color:wheat;
+    font-size: 25px;
+    margin-left: 350px;
+}
+.nina{
+    margin-left: 650px;
+}
+b{
+    font-size: 45px;
+}
+.footer{
+    background-color: purple ;
+}
